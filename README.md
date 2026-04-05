@@ -11,13 +11,6 @@
 
 ---
 
-## 📌 About Me
-- Currently focused on improving my backend development skills  
-- Interested in building scalable APIs, AI-powered tools, and real-world systems  
-- Always learning, experimenting, and leveling up as a developer
-
----
-
 ## 📫 Connect with Me
 - [GitHub](https://github.com/DefNotArham)  
 - [LinkedIn](https://www.linkedin.com/in/arham-kabir-520192381/)  

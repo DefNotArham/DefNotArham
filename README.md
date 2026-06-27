@@ -6,7 +6,7 @@
 ---
 
 ## 🛠️ Skills & Technologies
-- **Backend & Databases:** Node.js, Express, MongoDB
+- **Backend & Databases:** Node.js, Express, MongoDB, Typescript
 - **Languages & Frontend:** HTML, CSS, JavaScript, Tailwind, React  
 - **Others:** Docker 
 

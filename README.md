@@ -6,7 +6,7 @@
 ---
 
 ## 🛠️ Skills & Technologies
-- **Backend & Databases:** Node.js, Express, MongoDB, Typescript
+- **Backend & Databases:** Node.js, Express, MongoDB, <img height="32" width="32" src="https://explore-feed.github.com/topics/typescript/typescript.png" />
 - **Languages & Frontend:** HTML, CSS, JavaScript, Tailwind, React  
 - **Others:** Docker 
 

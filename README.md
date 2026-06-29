@@ -6,9 +6,8 @@
 ---
 
 ## 🛠️ Skills & Technologies
-- **Backend & Databases:** Node.js, Express, MongoDB, <img height="32" width="32" src="https://explore-feed.github.com/topics/typescript/typescript.png" />
-- **Languages & Frontend:** HTML, CSS, JavaScript, Tailwind, React  
-- **Others:** Docker 
+- **Primary skills:** <img height="32" width="32" src="https://explore-feed.github.com/topics/typescript/typescript.png" /> <img height="32" width="32" src="https://explore-feed.github.com/topics/typescript/typescript.png" /> <img height="32" width="32" src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4" /> <img height="32" width="32" src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4" /> 
+- **Others:** HTML, CSS, JavaScript, Tailwind, React  
 
 ---
 

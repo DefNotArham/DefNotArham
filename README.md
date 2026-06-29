@@ -6,7 +6,7 @@
 ---
 
 ## 🛠️ Skills & Technologies
- **Primary skills:**: 
+ ## **Primary skills:**: 
  <img height="32" width="32" src="https://explore-feed.github.com/topics/typescript/typescript.png" /> <img height="32" width="32" src="https://explore-feed.github.com/topics/nodejs/nodejs.png" /> <img height="32" width="32" src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4" /> <img height="32" width="32" src="https://avatars.githubusercontent.com/u/45120?s=48&v=4" /> 
 - **Others:** HTML, CSS, JavaScript, Tailwind, React  
 

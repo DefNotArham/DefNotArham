@@ -13,6 +13,7 @@
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/arham-kabir-520192381/)  
+- [LinkedIn](https://www.linkedin.com/in/arham-kabir-520192381/)
 
-    [![GitHub Streak](https://github-readme-streak-stats-orcin-eta.vercel.app?user=DefNotArham&theme=tokyonight)](https://git.io/streak-stats)
+ 
+                       [![GitHub Streak](https://github-readme-streak-stats-orcin-eta.vercel.app?user=DefNotArham&theme=tokyonight)](https://git.io/streak-stats)

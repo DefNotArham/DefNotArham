@@ -37,8 +37,11 @@
   <a href="https://www.npmjs.com/~defnotarham" target="_blank">
     <img height="32" width="32" src="https://icon.icepanel.io/Technology/svg/NPM.svg" alt="npm" />
   </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arhamkabir231@gmail.com" target="_blank">
+  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Email" />
+</a>
 </p>
 
-**Email:** <a href="mailto:arhamkabir231@gmail.com">arhamkabir231@gmail.com</a>
+
 
  [![GitHub Streak](https://github-readme-streak-stats-orcin-eta.vercel.app?user=DefNotArham&theme=tokyonight)](https://git.io/streak-stats)

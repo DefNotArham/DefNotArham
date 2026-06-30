@@ -9,7 +9,7 @@
 
 🚀 **Primary Stack**
 <p>
-  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/128/919/919853.png" alt="TypeScript" />
+  <img height="32" width="32" src="https://explore-feed.github.com/topics/typescript/typescript.png" alt="TypeScript" />
   <img height="32" width="32" src="https://explore-feed.github.com/topics/javascript/javascript.png" alt="JavaScript" />
   <img height="32" width="32" src="https://explore-feed.github.com/topics/nodejs/nodejs.png" alt="Node.js" />
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4" alt="Express.js" />
@@ -18,7 +18,7 @@
 
 🛠️ **Tools**
 <p>
-  <img height="32" width="32" src="https://explore-feed.github.com/topics/docker/docker.png" alt="Docker" />
+  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/128/919/919853.png" alt="Docker" />
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/2810941?s=48&v=4" alt="Google Cloud" />
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/18133?s=48&v=4" alt="Git" />
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/128/270/270798.png" alt="Github" />

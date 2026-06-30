@@ -20,10 +20,11 @@
 <p>
   <img height="32" width="32" src="https://explore-feed.github.com/topics/docker/docker.png" alt="Docker" />
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/2810941?s=48&v=4" alt="Google Cloud" />
-  <!-- Git -->
-  <!-- GitHub -->
-  <!-- Postman -->
-  <!-- VS Code -->
+  <img height="32" width="32" src="https://avatars.githubusercontent.com/u/18133?s=48&v=4" alt="Git" />
+  <img height="32" width="32" src="https://explore-feed.github.com/topics/github/github.png" alt="Github" />
+  <img height="32" width="32" src="https://explore-feed.github.com/topics/postman/postman.png" alt="Postman" />
+  <img height="32" width="32" src="https://explore-feed.github.com/topics/visual-studio-code/visual-studio-code.png" alt="Vscode" />
+
 </p>
 
 📚 **Other Technologies**

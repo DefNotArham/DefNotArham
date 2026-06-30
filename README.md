@@ -7,7 +7,7 @@
 
 ## 🛠️ Languages & Tools
 
-🚀 Primary Stack
+🚀 **Primary Stack**
 <p>
   <img height="32" width="32" src="https://explore-feed.github.com/topics/typescript/typescript.png" alt="TypeScript" />
   <img height="32" width="32" src="https://explore-feed.github.com/topics/javascript/javascript.png" alt="JavaScript" />
@@ -16,7 +16,7 @@
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/45120?s=48&v=4" alt="MongoDB" />
 </p>
 
-🛠️ Tools
+🛠️ **Tools**
 <p>
   <img height="32" width="32" src="https://explore-feed.github.com/topics/docker/docker.png" alt="Docker" />
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/2810941?s=48&v=4" alt="Google Cloud" />
@@ -26,7 +26,7 @@
   <!-- VS Code -->
 </p>
 
-📚 Other Technologies
+📚 **Other Technologies**
 <p>
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/102812?s=48&v=4" alt="React" />
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/67109815?s=48&v=4" alt="Tailwind CSS" />

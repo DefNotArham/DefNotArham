@@ -35,7 +35,6 @@
   <a href="https://www.linkedin.com/in/arham-kabir-520192381/" target="_blank">
     <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" />
   </a>
-  &nbsp;
   <a href="https://www.npmjs.com/~defnotarham" target="_blank">
     <img height="32" width="32" src="https://icon.icepanel.io/Technology/svg/NPM.svg" alt="npm" />
   </a>

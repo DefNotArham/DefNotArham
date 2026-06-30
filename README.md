@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=defnotarham)
+
 # Hi there, I'm Arham 👋
 
 💻 **CS Student | Backend Developer**  

@@ -28,9 +28,14 @@
 </p>
 
 ## 📫 Connect with Me
-<p>
-[<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LINKEDIN" />](https://www.linkedin.com/in/arham-kabir-520192381/)
-[<img height="32" width="32" src="https://icon.icepanel.io/Technology/svg/NPM.svg" alt="LINKEDIN" />](https://www.npmjs.com/~defnotarham)
+<p align="left">
+  <a href="https://www.linkedin.com/in/arham-kabir-520192381/" target="_blank">
+    <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.npmjs.com/~defnotarham" target="_blank">
+    <img height="32" width="32" src="https://icon.icepanel.io/Technology/svg/NPM.svg" alt="npm" />
+  </a>
 </p>
 
  [![GitHub Streak](https://github-readme-streak-stats-orcin-eta.vercel.app?user=DefNotArham&theme=tokyonight)](https://git.io/streak-stats)

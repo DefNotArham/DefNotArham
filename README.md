@@ -23,7 +23,7 @@
   <img height="32" width="32" src="https://explore-feed.github.com/topics/html/html.png" alt="HTML5" />
   <img height="32" width="32" src="https://img.icons8.com/?size=96&id=21278&format=png" alt="CSS3" />
   <img height="32" width="32" src="https://explore-feed.github.com/topics/docker/docker.png" alt="DOCKER" />
-  <img height="32" width="32" src="https://github.com/GoogleCloudPlatform/cloud-sdk-docker" alt="GCLOUD" />
+  <img height="32" width="32" src="https://avatars.githubusercontent.com/u/2810941?s=48&v=4" alt="GCLOUD" />
   
 </p>
 

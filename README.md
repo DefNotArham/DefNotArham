@@ -5,9 +5,9 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Languages & Tools
 
-### Primary Skills
+### Primary Languages
 <p>
   <img height="32" width="32" src="https://explore-feed.github.com/topics/typescript/typescript.png" alt="TypeScript" />
     <img height="32" width="32" src="https://explore-feed.github.com/topics/javascript/javascript.png" alt="JavaScript" />
@@ -17,7 +17,7 @@
   
 </p>
 
-### Other Technologies
+### Other Languages
 <p>
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/102812?s=48&v=4" alt="React" />
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/67109815?s=48&v=4" alt="Tailwind" />

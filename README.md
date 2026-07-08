@@ -1,7 +1,6 @@
 # Hi there, I'm Arham 👋
 
 💻 **CS Student | Backend Developer**  
-⚡ Passionate about AI & backend systems  
 
 ---
 

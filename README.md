@@ -36,19 +36,24 @@
 
 
 
-## 📫 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arham-kabir-520192381/" target="_blank">
-    <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
+
+  <a href="https://x.com/defnotarham_" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
   <a href="https://www.npmjs.com/~defnotarham" target="_blank">
-    <img height="32" width="32" src="https://icon.icepanel.io/Technology/svg/NPM.svg" alt="npm" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   </a>
-<a href="mailto:arhamkabir231@gmail.com">
-  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Email" />
-</a>
+
+  <a href="mailto:arhamkabir231@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 

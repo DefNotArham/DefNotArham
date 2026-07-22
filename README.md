@@ -16,7 +16,6 @@
 </p>
 
 🛠️ **Primary Tools**
-
   <img height="32" width="32" src="https://explore-feed.github.com/topics/visual-studio-code/visual-studio-code.png" alt="Vscode" />
   <img height="32" width="32" src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="Postman" />
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/18133?s=48&v=4" alt="Git" />

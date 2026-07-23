@@ -33,6 +33,7 @@
 📚 **Other Technologies**
 <p>
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/102812?s=48&v=4" alt="React" />
+  <img height="32" width="32" src="https://vitejs.dev/logo.svg" alt="Vite" />
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/67109815?s=48&v=4" alt="Tailwind CSS" />
   <img height="32" width="32" src="https://img.icons8.com/?size=96&id=20909&format=png" alt="HTML5" />
   <img height="32" width="32" src="https://img.icons8.com/?size=96&id=21278&format=png" alt="CSS3" />

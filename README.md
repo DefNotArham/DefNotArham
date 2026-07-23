@@ -13,6 +13,7 @@
   <img height="32" width="32" src="https://explore-feed.github.com/topics/nodejs/nodejs.png" alt="Node.js" />
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4" alt="Express.js" />
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/45120?s=48&v=4" alt="MongoDB" />
+  <img height="32" width="32" src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" alt="Socket.IO" />
 </p>
 
 🛠️ **Primary Tools**
@@ -22,10 +23,6 @@
   <img height="32" width="32" src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="Postman" />
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/18133?s=48&v=4" alt="Git" />
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/128/270/270798.png" alt="Github" />
-</p>
-
-🛠️ **Other Tools**
-<p>
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/128/919/919853.png" alt="Docker" />
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/2810941?s=48&v=4" alt="Google Cloud" />
 </p>

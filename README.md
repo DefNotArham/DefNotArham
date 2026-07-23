@@ -30,6 +30,8 @@
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/2810941?s=48&v=4" alt="Google Cloud" />
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats-orcin-eta.vercel.app?user=DefNotArham&theme=tokyonight)](https://git.io/streak-stats)
+
 📚 **Other Technologies**
 <p>
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/102812?s=48&v=4" alt="React" />

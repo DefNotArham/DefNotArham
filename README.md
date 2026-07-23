@@ -33,7 +33,7 @@
 📚 **Other Technologies**
 <p>
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/102812?s=48&v=4" alt="React" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo-with-shadow.svg" alt="Vite" />
+  <img height="32" width="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8A4REFeIhAhDpptQ2kjscMxD3Mo8v_HtyLZZhhms3XHi8L30955myoiMd&s=10" alt="Vite" />
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/67109815?s=48&v=4" alt="Tailwind CSS" />
   <img height="32" width="32" src="https://img.icons8.com/?size=96&id=20909&format=png" alt="HTML5" />
   <img height="32" width="32" src="https://img.icons8.com/?size=96&id=21278&format=png" alt="CSS3" />

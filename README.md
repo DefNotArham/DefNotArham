@@ -2,8 +2,6 @@
 
 💻 **CS Student | Backend Developer**
 
----
-
 ## 🛠️ Languages & Tools
 
 🚀 **Primary Stack**

@@ -9,7 +9,6 @@
 🚀 **Primary Stack**
 <p>
   <img height="32" width="32" src="https://explore-feed.github.com/topics/typescript/typescript.png" alt="TypeScript" />
-  <img height="32" width="32" src="https://explore-feed.github.com/topics/javascript/javascript.png" alt="JavaScript" />
   <img height="32" width="32" src="https://explore-feed.github.com/topics/nodejs/nodejs.png" alt="Node.js" />
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4" alt="Express.js" />
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/45120?s=48&v=4" alt="MongoDB" />

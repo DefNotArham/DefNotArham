@@ -13,10 +13,9 @@
   <img height="32" width="32" src="https://explore-feed.github.com/topics/nodejs/nodejs.png" alt="Node.js" />
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4" alt="Express.js" />
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/45120?s=48&v=4" alt="MongoDB" />
-  <img height="32" width="32" src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" alt="Socket.IO" />
 </p>
 
-🛠️ **Tools**
+🛠️ **Tools I use**
 <p>
   <img height="32" width="32" src="https://explore-feed.github.com/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" />
   <img height="32" width="32" src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="Postman" />

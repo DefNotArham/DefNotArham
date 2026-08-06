@@ -8,7 +8,7 @@
 
 🚀 **Primary Stack**
 <p>
-  <img height="32" width="32" src="https://avatars.githubusercontent.com/u/79345384?s=60&v=4" alt="TypeScript" />
+  <img height="32" width="32" src="" alt="TypeScript" />
   <img height="32" width="32" src="https://explore-feed.github.com/topics/nodejs/nodejs.png" alt="Node.js" />
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4" alt="Express.js" />
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/45120?s=48&v=4" alt="MongoDB" />
@@ -16,7 +16,7 @@
 
 🛠️ **Tools I use**
 <p>
-  <img height="32" width="32" src=" https://avatars.githubusercontent.com/u/79345384?s=60&v=4" alt="Zed" />
+  <img height="32" width="32" src="https://avatars.githubusercontent.com/u/79345384?s=60&v=4" alt="Zed" />
   <img height="32" width="32" src="https://explore-feed.github.com/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" />
   <img height="32" width="32" src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="Postman" />
   <img height="32" width="32" src="https://avatars.githubusercontent.com/u/18133?s=48&v=4" alt="Git" />

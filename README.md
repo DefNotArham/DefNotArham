@@ -2,7 +2,7 @@
 
 **CS Student | Backend Developer**
 
-**Software Engineering Intern @ Remonode Technologies**
+**Software Engineering Intern @ Remonode**
 
 ---
 

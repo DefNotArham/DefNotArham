@@ -4,34 +4,22 @@
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="50%">
+## Languages
 
-### Languages
+|            |            |
+| ---------- | ---------- |
+| TypeScript | JavaScript |
+| Python     | HTML       |
+| CSS        |            |
 
-* TypeScript
-* JavaScript
-* Python
-* HTML
-* CSS
+## Tools & Technologies
 
-</td>
-<td valign="top" width="50%">
-
-### Tools & Technologies
-
-* Node.js
-* Express.js
-* MongoDB
-* React
-* Vite
-* Docker
-* Google Cloud
-
-</td>
-</tr>
-</table>
+|              |            |
+| ------------ | ---------- |
+| Node.js      | Express.js |
+| MongoDB      | React      |
+| Vite         | Docker     |
+| Google Cloud |            |
 
 ---
 

@@ -12,7 +12,7 @@
 
 ## Tools & Technologies
 
-**Node.js • Express.js • MongoDB • React • Vite • Docker • Google Cloud**
+**Node.js • Express.js • MongoDB • React • Tailwind • Docker • Google Cloud**
 
 ---
 

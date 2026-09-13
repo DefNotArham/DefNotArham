@@ -6,11 +6,21 @@
 
 ## Languages
 
-**TypeScript · JavaScript · Python · HTML · CSS**
+* TypeScript
+* JavaScript
+* Python
+* HTML
+* CSS
 
 ## Tools & Technologies
 
-**Node.js · Express.js · MongoDB · React · Vite · Docker · Google Cloud**
+* Node.js
+* Express.js
+* MongoDB
+* React
+* Vite
+* Docker
+* Google Cloud
 
 ---
 

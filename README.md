@@ -2,6 +2,8 @@
 
 **CS Student | Backend Developer**
 
+**Software Engineering Intern @ Remonode Technologies**
+
 ---
 
 ## Languages

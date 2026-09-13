@@ -6,37 +6,22 @@
 
 ## 🛠️ Languages & Tools
 
-🚀 **Primary Stack**
-<p>
-  <img height="32" width="32" src="https://explore-feed.github.com/topics/typescript/typescript.png?size=48" alt="TypeScript" />
-  <img height="32" width="32" src="https://explore-feed.github.com/topics/nodejs/nodejs.png" alt="Node.js" />
-  <img height="32" width="32" src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4" alt="Express.js" />
-  <img height="32" width="32" src="https://avatars.githubusercontent.com/u/45120?s=48&v=4" alt="MongoDB" />
-</p>
+### 🚀 Primary Stack
 
-🛠️ **Tools I use**
-<p>
-  <img height="32" width="32" src="https://avatars.githubusercontent.com/u/79345384?s=60&v=4" alt="Zed" />
-  <img height="32" width="32" src="https://explore-feed.github.com/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" />
-  <img height="32" width="32" src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="Postman" />
-  <img height="32" width="32" src="https://avatars.githubusercontent.com/u/18133?s=48&v=4" alt="Git" />
-  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/128/270/270798.png" alt="Github" />
- 
-</p>
+**TypeScript · Node.js · Express.js · MongoDB**
 
-☁️ **DevOps & Cloud**
-<p>
-  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/128/919/919853.png" alt="Docker" />
-  <img height="32" width="32" src="https://avatars.githubusercontent.com/u/2810941?s=48&v=4" alt="Google Cloud" />
-</p>
+### 🛠️ Tools I Use
 
-📚 **Other Technologies**
-<p>
-  <img height="32" width="32" src="https://avatars.githubusercontent.com/u/102812?s=48&v=4" alt="React" />
-  <img height="32" width="32" src="https://avatars.githubusercontent.com/u/65625612?s=60&v=4" alt="Vite" />
-  <img height="32" width="32" src="https://img.icons8.com/?size=96&id=20909&format=png" alt="HTML5" />
-  <img height="32" width="32" src="https://img.icons8.com/?size=96&id=21278&format=png" alt="CSS3" />
-</p>
+**Zed · VS Code · Postman · Git · GitHub**
 
+### ☁️ DevOps & Cloud
 
-[![GitHub Streak](https://github-readme-streak-stats-orcin-eta.vercel.app?user=DefNotArham&theme=tokyonight)](https://git.io/streak-stats)
+**Docker · Google Cloud**
+
+### 📚 Other Technologies
+
+**React · Vite · HTML · CSS**
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats-orcin-eta.vercel.app?user=DefNotArham\&theme=tokyonight)](https://git.io/streak-stats)

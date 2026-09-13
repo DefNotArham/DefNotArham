@@ -4,7 +4,11 @@
 
 ---
 
-## Languages
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Languages
 
 * TypeScript
 * JavaScript
@@ -12,7 +16,10 @@
 * HTML
 * CSS
 
-## Tools & Technologies
+</td>
+<td valign="top" width="50%">
+
+### Tools & Technologies
 
 * Node.js
 * Express.js
@@ -21,6 +28,10 @@
 * Vite
 * Docker
 * Google Cloud
+
+</td>
+</tr>
+</table>
 
 ---
 

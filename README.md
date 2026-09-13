@@ -1,24 +1,24 @@
 # Hi there, I'm Arham 👋
 
-💻 **CS Student | Backend Developer**
+**CS Student | Backend Developer**
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
-### 🚀 Primary Stack
+### Primary Stack
 
 **TypeScript · Node.js · Express.js · MongoDB**
 
-### 🛠️ Tools I Use
+### Tools I Use
 
 **Zed · VS Code · Postman · Git · GitHub**
 
-### ☁️ DevOps & Cloud
+### DevOps & Cloud
 
 **Docker · Google Cloud**
 
-### 📚 Other Technologies
+### Other Technologies
 
 **React · Vite · HTML · CSS**
 

@@ -4,23 +4,13 @@
 
 ---
 
-## Languages & Tools
+## Languages
 
-### Primary Stack
+**TypeScript · JavaScript · Python · HTML · CSS**
 
-**TypeScript · Node.js · Express.js · MongoDB**
+## Tools & Technologies
 
-### Tools I Use
-
-**Zed · VS Code · Postman · Git · GitHub**
-
-### DevOps & Cloud
-
-**Docker · Google Cloud**
-
-### Other Technologies
-
-**React · Vite · HTML · CSS**
+**Node.js · Express.js · MongoDB · React · Vite · Docker · Google Cloud**
 
 ---
 

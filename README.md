@@ -6,9 +6,11 @@
 
 ## Experience
 
-**Software Engineering Intern @ Remonode** <sub>Aug 2026 – Present</sub>
+**Software Engineering Intern @ Remonode** 
+<sub>Aug 2026 – Present</sub>
 
-**Software Engineering Intern @ Nefoxion Technologies** <sub>Sep 2026 – Present</sub>
+**Software Engineering Intern @ Nefoxion Technologies** 
+<sub>Sep 2026 – Present</sub>
 
 ---
 

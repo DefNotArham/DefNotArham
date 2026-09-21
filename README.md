@@ -2,17 +2,13 @@
 
 **CS Student | Backend Developer**
 
-**Software Engineering Intern @ Remonode**
-
 ---
 
 ## Experience
 
-**Software Engineering Intern @ Remonode**
-*Aug 2026 – Present*
+**Software Engineering Intern @ Remonode** <sub>Aug 2026 – Present</sub>
 
-**Software Engineering Intern @ Nefoxion Technologies**
-*Sep 2026 – Present*
+**Software Engineering Intern @ Nefoxion Technologies** <sub>Sep 2026 – Present</sub>
 
 ---
 

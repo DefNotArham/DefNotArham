@@ -1,26 +1,24 @@
 # Hi there, I'm Arham 👋
 
-**CS Student | Backend Developer**
+**CS Student • Backend Developer**
 
 ---
 
 ## Experience
 
-**Software Engineering Intern @ Remonode**
-*Aug 2026 – Present*
+**Software Engineering Intern · Remonode Technologies** <sub>Aug 2026 – Present</sub>
 
-**Software Engineering Intern @ Nefoxion Technologies**
-*Sep 2026 – Present*
+**Software Engineering Intern · Nefoxion Technologies** <sub>Sep 2026 – Present</sub>
 
 ---
 
 ## Languages
 
-**TypeScript • JavaScript • Python • HTML • CSS**
+**TypeScript** · **JavaScript** · **Python** · **HTML** · **CSS**
 
 ## Tools & Technologies
 
-**Node.js • Express • MongoDB • React • Tailwind • Docker • Google Cloud**
+**Node.js** · **Express.js** · **MongoDB** · **React** · **Tailwind** · **Docker** · **Google Cloud**
 
 ---
 

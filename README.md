@@ -2,7 +2,15 @@
 
 **CS Student | Backend Developer**
 
+---
+
+## Experience
+
 **Software Engineering Intern @ Remonode**
+*Aug 2026 – Present*
+
+**Software Engineering Intern @ Nefoxion Technologies**
+*Sep 2026 – Present*
 
 ---
 
@@ -12,7 +20,7 @@
 
 ## Tools & Technologies
 
-**Node.js • Express.js • MongoDB • React • Tailwind • Docker • Google Cloud**
+**Node.js • Express • MongoDB • React • Tailwind • Docker • Google Cloud**
 
 ---
 

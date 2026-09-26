@@ -14,7 +14,7 @@
 
 ## Languages
 
-**TypeScript • JavaScript • Python • HTML • CSS**
+**TypeScript • JavaScript • Python • SQL • HTML • CSS**
 
 ## Tools & Technologies
 
